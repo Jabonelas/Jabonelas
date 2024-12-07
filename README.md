@@ -94,6 +94,7 @@ Here are some ideas to get you started:
     </a>
   </div>
   <br>
+  <!--
   <div align="center">
     <h2 align="center">Gráfico de Atividades</h2>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jabonelas&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Gráfico de Atividades de jabonelas" />
@@ -103,8 +104,7 @@ Here are some ideas to get you started:
 
 
 
-
-
+<!--
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
