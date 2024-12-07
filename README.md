@@ -85,11 +85,11 @@ Here are some ideas to get you started:
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Ir para a Fonte">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=jabonelas&theme=react&border=61dafb&hide_border=true&locale=pt_BR" alt="Estatísticas de Contribuições de jabonelas" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Ir para a Fonte">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=jabonelas&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub de jabonelas" />
+     <a href="https://github.com/anuraghazra/github-readme-stats" title="Ir para a Fonte">
+      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=jabonelas&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Estatísticas do GitHub de jabonelas" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+   <br><br><br><br><br><br><br><br><br>
   <div align="center">
     <h2 align="center">Linguagens Mais Usadas</h2>
     <a href="https://github.com/anuraghazra/github-readme-stats">
