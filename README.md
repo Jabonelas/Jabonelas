@@ -47,8 +47,9 @@ Here are some ideas to get you started:
   <br>
   🎓 Graduado em Engenharia de Controle e Automação.
     <br>
-  💻 Adoro escrever código e aprender coisas novas
-
+   🎓 Formação em Desenvolvimento de Software com foco em Backend.
+    <br>
+  💻 Apaixonado por transformar ideias em realidade.
 
 </p>
 
