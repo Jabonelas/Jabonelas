@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <br>
    🎓 Graduado em Engenharia de Controle e Automação.
     <br>
-   🎓 Formação em Desenvolvimento de Software com foco em Backend.
+   🎓 Formação em Desenvolvimento de Software com foco em Back-end.
     <br>
    💻 Apaixonado por transformar ideias em realidade.
     <br>
