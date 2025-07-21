@@ -61,6 +61,8 @@ Here are some ideas to get you started:
 <p align="center">
 
   <img title="C#" src="https://github.com/user-attachments/assets/bb2ccd18-070c-48a4-be17-7c2f9a2d7da2" alt="C# logo" width="25">
+  <img title=".NET MAUI"  alt="dotnet_bot" src="https://github.com/user-attachments/assets/d0356b26-bbec-40ea-9f34-84a372c7e372"  alt=".NET MAUI" width="25"/>
+  <img title=".NET Blazor" alt="pngwing com" src="https://github.com/user-attachments/assets/df05a0e7-52e7-4e3d-a3a7-b08dc7735981" alt=".NET Blazor" width="25"/>
   <img title=".NetCore" src="https://github.com/user-attachments/assets/d259264e-a05c-483d-b56b-771f654a305b" alt=".NetCore" width="25">
   <img title="NET Framework" src="https://github.com/user-attachments/assets/ef879084-83c0-4fd2-b647-e01e514ab4c4" alt="NET Framework" width="25">
   <img title="Git" src="https://github.com/user-attachments/assets/528eaf8d-797a-4c04-acd9-c815046988d1" alt="Git" width="25">
@@ -71,9 +73,12 @@ Here are some ideas to get you started:
   <img title="Visual Studio Code" src="https://github.com/user-attachments/assets/eea3eff4-28ab-4fc9-9d8b-a99ef6ed4311" alt="Visual Studio Code" width="25">
   <img title="Microsoft Visual Studio" src="https://github.com/user-attachments/assets/1786b58a-d64c-45c9-a571-76f0030dd2c2" alt="Microsoft Visual Studio" width="25">
   <img title="DevExpress" src="https://github.com/user-attachments/assets/ec31280b-e242-4f66-a460-504b383fa2b8" alt="DevExpress" width="25">
-   <img title="Guna Framework" src="https://github.com/user-attachments/assets/96d03967-77d2-413f-8610-186b8a231b3b" alt="Guna Framework" width="25">
+  <img title="Guna Framework" src="https://github.com/user-attachments/assets/96d03967-77d2-413f-8610-186b8a231b3b" alt="Guna Framework" width="25">
 
-    
+
+
+
+
 
 </p>
 <hr>
